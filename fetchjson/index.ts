@@ -26,6 +26,8 @@ axios.get(url).then((response) => {
 
 const logToDo = (id: number, title: string, completed: boolean) => {
   console.log(
-    ` The id is ${id}, the title is: ${title}, is it finished?: ${completed}`
+    ` The id is ${id}, 
+      the title is: ${title}, 
+      is it finished?: ${completed}`
   );
 };
