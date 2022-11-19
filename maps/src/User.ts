@@ -11,6 +11,8 @@ export class User {
     lng: number;
   };
 
+  colour: string;
+
   constructor() {
     this.name = faker.name.firstName();
 
@@ -18,6 +20,11 @@ export class User {
       lat: parseFloat(faker.address.latitude()),
       lng: parseFloat(faker.address.longitude()),
     };
+    this.colour = "blue";
+  }
+
+  markerContent(): string {
+    return `${this.name}`;
   }
 }
 

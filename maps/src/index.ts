@@ -5,12 +5,8 @@ import { Company } from "./Company";
 
 const company = new Company();
 const user = new User();
-
-
 const customMap = new CustomMap("map");
 
-customMap.addUserMarker(user);
+customMap.addMarker(user);
 
-customMap.addCompanyMarker(company)
-
-console.log(user);
+customMap.addMarker(company);

@@ -22857,28 +22857,40 @@ exports.faker = ye;
 },{"./chunk-WQ5WD4ZB.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-WQ5WD4ZB.mjs","./chunk-N54TB7R3.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-N54TB7R3.mjs","./chunk-CNLXCJ2I.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-CNLXCJ2I.mjs","./chunk-2ARF2KYP.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-2ARF2KYP.mjs","./chunk-WJNWABYE.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-WJNWABYE.mjs","./chunk-BG5XSEAX.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-BG5XSEAX.mjs","./chunk-WTFAB2OK.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-WTFAB2OK.mjs","./chunk-4WRXY4YA.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-4WRXY4YA.mjs","./chunk-PHKD4ARO.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-PHKD4ARO.mjs","./chunk-NFMQMJTZ.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-NFMQMJTZ.mjs","./chunk-USQH6BW5.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-USQH6BW5.mjs","./chunk-EZQM6TIL.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-EZQM6TIL.mjs","./chunk-DHYAFIBN.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-DHYAFIBN.mjs","./chunk-5ZAQ2U6R.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-5ZAQ2U6R.mjs","./chunk-ZJOZA6GK.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-ZJOZA6GK.mjs","./chunk-BDWC2LEF.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-BDWC2LEF.mjs","./chunk-7M4JXUUT.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-7M4JXUUT.mjs","./chunk-FCSWVLM3.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-FCSWVLM3.mjs","./chunk-NOKPGS4X.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-NOKPGS4X.mjs","./chunk-7F72AJZR.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-7F72AJZR.mjs","./chunk-Z627URUV.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-Z627URUV.mjs","./chunk-HA3GPRO5.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-HA3GPRO5.mjs","./chunk-OEKYCRFB.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-OEKYCRFB.mjs","./chunk-W7Z3VRYQ.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-W7Z3VRYQ.mjs","./chunk-RBYSY45B.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-RBYSY45B.mjs","./chunk-SBNWBO2R.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-SBNWBO2R.mjs","./chunk-Z6T3C6NC.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-Z6T3C6NC.mjs","./chunk-EB7QWEJK.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-EB7QWEJK.mjs","./chunk-JIMEU6GT.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-JIMEU6GT.mjs","./chunk-YNMXESCZ.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-YNMXESCZ.mjs","./chunk-572NMBBA.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-572NMBBA.mjs","./chunk-HMKBSESR.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-HMKBSESR.mjs","./chunk-4QDT4GR4.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-4QDT4GR4.mjs","./chunk-MYXNWJ2J.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-MYXNWJ2J.mjs","./chunk-VK7Z6RGB.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-VK7Z6RGB.mjs","./chunk-BDJXH623.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-BDJXH623.mjs","./chunk-NOA2ZY6V.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-NOA2ZY6V.mjs","./chunk-SKS62GR6.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-SKS62GR6.mjs","./chunk-TJ6YH7C2.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-TJ6YH7C2.mjs","./chunk-PTPXZ7BA.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-PTPXZ7BA.mjs","./chunk-3BX74TNW.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-3BX74TNW.mjs","./chunk-VZILLPE6.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-VZILLPE6.mjs","./chunk-QKDMGTDO.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-QKDMGTDO.mjs","./chunk-MBBBPC24.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-MBBBPC24.mjs","./chunk-WW46KXGA.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-WW46KXGA.mjs","./chunk-UCPFQJLO.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-UCPFQJLO.mjs","./chunk-NQOA56Q7.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-NQOA56Q7.mjs","./chunk-YTYAKGI6.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-YTYAKGI6.mjs","./chunk-KMHR4YDU.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-KMHR4YDU.mjs","./chunk-XOZOSSLW.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-XOZOSSLW.mjs","./chunk-YOA26RGT.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-YOA26RGT.mjs","./chunk-GDLFIL7K.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-GDLFIL7K.mjs","./chunk-AC7CIJLS.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-AC7CIJLS.mjs","./chunk-3ARMJFIB.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-3ARMJFIB.mjs","./chunk-OP2QW3G5.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-OP2QW3G5.mjs","./chunk-DWQIXVVW.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-DWQIXVVW.mjs","./chunk-G6GIS7LZ.mjs":"../node_modules/@faker-js/faker/dist/esm/chunk-G6GIS7LZ.mjs"}],"src/User.ts":[function(require,module,exports) {
 "use strict";
 
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
 function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); Object.defineProperty(Constructor, "prototype", { writable: false }); return Constructor; }
-function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.User = void 0;
 var faker_1 = require("@faker-js/faker");
-var User = /*#__PURE__*/_createClass(function User() {
-  _classCallCheck(this, User);
-  this.name = faker_1.faker.name.firstName();
-  this.location = {
-    lat: parseFloat(faker_1.faker.address.latitude()),
-    lng: parseFloat(faker_1.faker.address.longitude())
-  };
-});
+var User = /*#__PURE__*/function () {
+  function User() {
+    _classCallCheck(this, User);
+    this.name = faker_1.faker.name.firstName();
+    this.location = {
+      lat: parseFloat(faker_1.faker.address.latitude()),
+      lng: parseFloat(faker_1.faker.address.longitude())
+    };
+    this.colour = "blue";
+  }
+  _createClass(User, [{
+    key: "markerContent",
+    value: function markerContent() {
+      return "".concat(this.name);
+    }
+  }]);
+  return User;
+}();
 exports.User = User;
 var user = new User();
 console.log(user);
 },{"@faker-js/faker":"../node_modules/@faker-js/faker/dist/esm/index.mjs"}],"src/CustomMap.ts":[function(require,module,exports) {
 "use strict";
 
+// import { Company } from "./Company";
+// import { User } from "./User";
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
 function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); Object.defineProperty(Constructor, "prototype", { writable: false }); return Constructor; }
@@ -22899,52 +22911,57 @@ var CustomMap = /*#__PURE__*/function () {
   }
   //This is not the best way to do this
   _createClass(CustomMap, [{
-    key: "addUserMarker",
-    value: function addUserMarker(user) {
-      new google.maps.Marker({
+    key: "addMarker",
+    value: function addMarker(mappable) {
+      var _this = this;
+      var marker = new google.maps.Marker({
         map: this.googleMap,
         position: {
-          lat: user.location.lat,
-          lng: user.location.lng
+          lat: mappable.location.lat,
+          lng: mappable.location.lng
         }
       });
-    }
-  }, {
-    key: "addCompanyMarker",
-    value: function addCompanyMarker(company) {
-      new google.maps.Marker({
-        map: this.googleMap,
-        position: {
-          lat: company.location.lat,
-          lng: company.location.lng
-        }
+      marker.addListener("click", function () {
+        var infoWindow = new google.maps.InfoWindow({
+          content: mappable.markerContent()
+        });
+        infoWindow.open(_this.googleMap, marker);
       });
     }
   }]);
   return CustomMap;
 }();
 exports.CustomMap = CustomMap;
-;
 },{}],"src/Company.ts":[function(require,module,exports) {
 "use strict";
 
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 function _defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } }
 function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _defineProperties(Constructor.prototype, protoProps); if (staticProps) _defineProperties(Constructor, staticProps); Object.defineProperty(Constructor, "prototype", { writable: false }); return Constructor; }
-function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
 exports.Company = void 0;
 var faker_1 = require("@faker-js/faker");
-var Company = /*#__PURE__*/_createClass(function Company() {
-  _classCallCheck(this, Company);
-  this.companyName = faker_1.faker.company.name();
-  this.catchPhrase = faker_1.faker.company.catchPhrase();
-  this.location = {
-    lat: parseFloat(faker_1.faker.address.latitude()),
-    lng: parseFloat(faker_1.faker.address.longitude())
-  };
-});
+var Company = /*#__PURE__*/function () {
+  function Company() {
+    _classCallCheck(this, Company);
+    this.colour = "red";
+    this.name = faker_1.faker.company.name();
+    this.catchPhrase = faker_1.faker.company.catchPhrase();
+    this.location = {
+      lat: parseFloat(faker_1.faker.address.latitude()),
+      lng: parseFloat(faker_1.faker.address.longitude())
+    };
+  }
+  _createClass(Company, [{
+    key: "markerContent",
+    value: function markerContent() {
+      return "\n\t\t\t\t\t<div>\n\t\t\t\t\t\t<h1>Company Name: ".concat(this.name, " </h1>\n\t\t\t\t\t\t<h3> Company Catchphrase: ").concat(this.catchPhrase, "</h3>\n\t\t\t\t\t</div>\n\t\t");
+    }
+  }]);
+  return Company;
+}();
 exports.Company = Company;
 },{"@faker-js/faker":"../node_modules/@faker-js/faker/dist/esm/index.mjs"}],"src/index.ts":[function(require,module,exports) {
 "use strict";
@@ -22959,9 +22976,8 @@ var Company_1 = require("./Company");
 var company = new Company_1.Company();
 var user = new User_1.User();
 var customMap = new CustomMap_1.CustomMap("map");
-customMap.addUserMarker(user);
-customMap.addCompanyMarker(company);
-console.log(user);
+customMap.addMarker(user);
+customMap.addMarker(company);
 },{"./User":"src/User.ts","./CustomMap":"src/CustomMap.ts","./Company":"src/Company.ts"}],"../../../../../../usr/local/lib/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
@@ -22987,7 +23003,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "57740" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59437" + '/');
   ws.onmessage = function (event) {
     checkedAssets = {};
     assetsToAccept = [];
